@@ -68,12 +68,6 @@ Meaning: A fruit.
 
 ---
 
-## Credits
-- **Developed By**:  
-  - Pial Paul (ID: 22102022)  
-- **Instructor**: Habibur Rahaman  
-  Lecturer, Department of Computer Science & Engineering, Chittagong Independent University.
-
 ---
 
 ## License
