@@ -1,6 +1,4 @@
-Here’s the content in the format suitable for a **README.md** file, now ready for direct use in your GitHub repository:
 
-```markdown
 # Dictionary Using Binary Search Tree (BST)
 
 ## Overview
