@@ -71,7 +71,6 @@ Meaning: A fruit.
 ## Credits
 - **Developed By**:  
   - Pial Paul (ID: 22102022)  
-  - Sayanti Choudhry (ID: 22102023)  
 - **Instructor**: Habibur Rahaman  
   Lecturer, Department of Computer Science & Engineering, Chittagong Independent University.
 
