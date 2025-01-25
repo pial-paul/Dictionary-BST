@@ -66,7 +66,6 @@ Meaning: A fruit.
 - **Efficient Data Management**: Stores and retrieves words in alphabetical order.
 - **Educational Tool**: Demonstrates practical usage of Binary Search Trees in real-world scenarios.
 
----
 
 ---
 
