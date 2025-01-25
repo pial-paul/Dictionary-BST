@@ -18,25 +18,22 @@ This project implements a **digital dictionary** using the Binary Search Tree (B
    ```bash
    git clone https://github.com/<your-username>/dictionary-using-BST.git
    cd dictionary-using-BST
-Compile the Program:
 
-bash
-Copy
-Edit
-gcc dictionary.c -o dictionary
-Run the Program:
+2. **Compile the Program**:
+   ```bash
+   gcc dictionary.c -o dictionary
 
-bash
-Copy
-Edit
-./dictionary
-Interact Using the Menu:
+3. **Compile the Program**:
+   ```bash
+   ./dictionary
 
+4. **Interact Using the Menu**:
 [1] Insert a word
 [2] Delete a word
 [3] Search for a word
 [4] Display all words
 [0] Exit
+
 Example
 plaintext
 Copy
@@ -46,11 +43,8 @@ Edit
 [3] SEARCH 
 [4] DISPLAY WHOLE
 [0] EXIT
-Sample Interaction:
 
-plaintext
-Copy
-Edit
+**Sample Interaction:**
 ENTER YOUR CHOICE: 1
 Word to insert: Apple
 Meaning: A fruit.
@@ -58,20 +52,12 @@ Meaning: A fruit.
 ENTER YOUR CHOICE: 4
 Word: Apple
 Meaning: A fruit.
-Applications
-Efficient Data Management: Stores and retrieves words in alphabetical order.
-Educational Tool: Demonstrates practical usage of Binary Search Trees in real-world scenarios.
-Credits
-Developed By:
-Pial Paul (ID: 22102022)
-Sayanti Choudhry (ID: 22102023)
-Instructor: Habibur Rahaman
-Lecturer, Department of Computer Science & Engineering, Chittagong Independent University.
-License
+
+**Applications**
+   **Efficient Data Management:** Stores and retrieves words in alphabetical order.
+   **Educational Tool:** Demonstrates practical usage of Binary Search Trees in real-world scenarios.
+
+**License**
 This project is licensed under the MIT License. Feel free to contribute!
-
-vbnet
-Copy
-Edit
-
-This version is concise, focused on key details, and well-structured for maximum clarity. Replace `<your-usernam
+```typescript
+You can now copy and paste this directly into your `README.md` file in the GitHub repository. Just replace `<your-username>` with your GitHub username. Let me know if you need any further changes!
