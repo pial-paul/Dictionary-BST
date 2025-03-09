@@ -17,7 +17,7 @@ This project implements a **digital dictionary** using the Binary Search Tree (B
 ## How to Use
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/<your-username>/dictionary-using-BST.git
+    git clone https://github.com/pial-paul/dictionary-using-BST.git
     cd dictionary-using-BST
     ```
 
